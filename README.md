@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/e2af03dd-e485-42e3-95ec-63f65463fdee" />
+</p>
 
-<!--
-**latinwoe/latinwoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[pronouns.cc](https://pronouns.cc/@milesssss)
+✦
+[Host's.github](https://github.com/parfaitzomalys)
+
+</div>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31g2keqe5bv5274eygpiwxjm2bzu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g2keqe5bv5274eygpiwxjm2bzu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=100e24&bar_color_cover=false">
+  </a>
+</p>
