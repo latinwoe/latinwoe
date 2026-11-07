@@ -4,12 +4,15 @@
 
 <div align="center">
 
-
 [pronouns.cc](https://pronouns.cc/@milesssss)
 ✦
 [Host's.github](https://github.com/parfaitzomalys)
 
 </div>
+
+<p align="center">
+<img width="137" alt="image" src="https://github.com/user-attachments/assets/585cbd0b-f202-4902-8fa4-8d36da2c24aa" />
+</p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31g2keqe5bv5274eygpiwxjm2bzu&redirect=true">
